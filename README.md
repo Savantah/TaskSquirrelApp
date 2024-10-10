@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 - I can improve the app, by giving the user the option to add their own task instead of having their task there
 
 ## Video Walkthrough
-
+https://www.loom.com/share/26cd0c9fbb9945c196454657821d0a5a?sid=b243e223-91d8-483b-9eeb-76a41071c4a8
 
 
 
